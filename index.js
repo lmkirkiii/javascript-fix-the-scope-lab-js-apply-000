@@ -1,6 +1,7 @@
 var animal = 'dog'
 var animals = 'cat'
 var two = 2
+var theFunk = "FUNKY!"
 
 function myAnimal() {
   return animal
