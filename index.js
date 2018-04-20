@@ -1,6 +1,6 @@
 var animal = 'dog'
 var animals = 'cat'
-const n = Math.floor(Math.random() * 1000)
+
 
 function myAnimal() {
   return animal
